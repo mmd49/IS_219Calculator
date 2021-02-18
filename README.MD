@@ -1,0 +1,2 @@
+[![Coverage Status](https://coveralls.io/repos/github/mmd49/IS_219Calculator/badge.svg?branch=master)](https://coveralls.io/github/mmd49/IS_219Calculator?branch=master)
+[![Build Status](https://travis-ci.com/mmd49/IS_219Calculator.svg?branch=master)](https://travis-ci.com/mmd49/IS_219Calculator)
